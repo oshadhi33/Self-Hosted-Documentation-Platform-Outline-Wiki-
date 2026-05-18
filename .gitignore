@@ -1,0 +1,11 @@
+# Environment files
+docker.env
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Docker volumes (optional safety)
+data/
